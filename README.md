@@ -4,6 +4,8 @@ Unofficial prototype by Kushagra Pratap Singh. Not affiliated with Vector Legal.
 
 Vector Legal is an AI-native law firm for startups. Their software "takes the first pass and attorneys spend their time on judgment", and their services include **legal health checks**, cap table management and investor-ready data rooms ([YC](https://www.ycombinator.com/companies/vector-legal), [site](https://vectorlegal.com)). Most of an equity health check is cross-document consistency plus dated rules. That is exactly the part software can do first, with every finding citing the documents it used and a cure the attorney can accept or change.
 
+![demo](docs/demo.jpg)
+
 ## What it checks (`health/check.py`, stdlib)
 | code | rule (cite) | suggested cure |
 |---|---|---|
