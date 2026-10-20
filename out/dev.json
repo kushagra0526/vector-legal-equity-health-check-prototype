@@ -1,0 +1,67 @@
+{
+ "set": "dev",
+ "totals": {
+  "planted": 327,
+  "found": 327,
+  "rooms": 150,
+  "clean_rooms": 11,
+  "clean_rooms_flagged": 0,
+  "extra_findings": 0,
+  "baseline_found": 0
+ },
+ "per_issue": {
+  "AUTHORIZED_EXCEEDED": {
+   "planted": 29,
+   "found": 29
+  },
+  "83B_MISSING": {
+   "planted": 30,
+   "found": 30
+  },
+  "SAFE_UNSIGNED": {
+   "planted": 26,
+   "found": 26
+  },
+  "GRANT_NOT_APPROVED": {
+   "planted": 30,
+   "found": 30
+  },
+  "IP_ASSIGNMENT_MISSING": {
+   "planted": 21,
+   "found": 21
+  },
+  "STRIKE_BELOW_FMV": {
+   "planted": 25,
+   "found": 25
+  },
+  "POOL_EXCEEDED": {
+   "planted": 25,
+   "found": 25
+  },
+  "GRANT_BEFORE_APPROVAL": {
+   "planted": 24,
+   "found": 24
+  },
+  "STALE_409A": {
+   "planted": 23,
+   "found": 23
+  },
+  "FRANCHISE_TAX_METHOD": {
+   "planted": 32,
+   "found": 32
+  },
+  "SAFE_AMOUNT_MISMATCH": {
+   "planted": 29,
+   "found": 29
+  },
+  "83B_LATE": {
+   "planted": 32,
+   "found": 32
+  },
+  "ISO_100K": {
+   "planted": 1,
+   "found": 1
+  }
+ },
+ "extra": []
+}
